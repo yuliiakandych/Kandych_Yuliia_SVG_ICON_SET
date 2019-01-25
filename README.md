@@ -1,0 +1,1 @@
+# Kandych_Yuliia_SVG_ICON_SET-
