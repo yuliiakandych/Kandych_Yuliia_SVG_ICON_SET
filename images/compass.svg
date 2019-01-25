@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="compass" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 117.6 127.8" style="enable-background:new 0 0 117.6 127.8;" xml:space="preserve">
+<style type="text/css">
+	.Drop_x0020_Shadow{fill:none;}
+	.Round_x0020_Corners_x0020_2_x0020_pt{fill:#FFFFFF;stroke:#201600;stroke-miterlimit:10;}
+	.Live_x0020_Reflect_x0020_X{fill:none;}
+	.Bevel_x0020_Soft{fill:url(#SVGID_1_);}
+	.Dusk{fill:#FFFFFF;}
+	.Foliage_GS{fill:#FBDB44;}
+	.Pompadour_GS{fill-rule:evenodd;clip-rule:evenodd;fill:#73ACE1;}
+	.st0{opacity:0.59;fill:#2E2E2E;}
+	.st1{fill:url(#yellow_fill_1_);}
+	.st2{fill:none;stroke:#232323;stroke-width:2;stroke-miterlimit:10;}
+	.st3{fill:url(#blue_fill_1_);}
+	.st4{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st5{opacity:0.58;fill:url(#blue_shadow_1_);}
+	.st6{font-family:'TimesNewRomanPS-BoldItalicMT';}
+	.st7{font-size:22.2981px;}
+	.st8{fill:none;stroke:#232323;stroke-linecap:round;stroke-miterlimit:10;}
+	.st9{fill:#232323;}
+	.st10{fill:#002A35;}
+	.st11{fill:#DBDBDD;}
+	.st12{fill:none;stroke:#232323;stroke-width:0.5;stroke-miterlimit:10;}
+	.st13{fill:#F9061D;}
+	.st14{fill:#04313D;}
+	.st15{fill:#F7E96D;}
+	.st16{fill:#FFFFFF;}
+	.st17{fill:none;stroke:#232323;stroke-width:1.5;stroke-linecap:round;stroke-miterlimit:10;}
+	.st18{fill:#046277;stroke:#201600;stroke-miterlimit:10;}
+	.st19{opacity:0.8;}
+	.st20{opacity:0.8;fill:#FFFFFF;}
+	.st21{opacity:0.9;}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-337.6944" y1="-242.7584" x2="-336.9873" y2="-242.0513">
+	<stop  offset="0" style="stop-color:#DCDDE3"/>
+	<stop  offset="0.1783" style="stop-color:#D8D9DF"/>
+	<stop  offset="0.3611" style="stop-color:#CCCDD3"/>
+	<stop  offset="0.546" style="stop-color:#B7B9BE"/>
+	<stop  offset="0.7324" style="stop-color:#9A9DA1"/>
+	<stop  offset="0.9181" style="stop-color:#76797D"/>
+	<stop  offset="1" style="stop-color:#63676A"/>
+</linearGradient>
+<g id="shadow">
+	<path id="main_shadow" class="st0" d="M117.6,72.2c0,30.7-25.3,55.6-56.6,55.6c-31.2,0-56.6-24.9-56.6-55.6S29.8,16.6,61,16.6
+		C92.2,16.6,117.6,41.5,117.6,72.2z"/>
+	<ellipse id="top_shadow" class="st0" cx="61" cy="8.8" rx="7.9" ry="3.2"/>
+</g>
+<linearGradient id="yellow_fill_1_" gradientUnits="userSpaceOnUse" x1="1" y1="68.9635" x2="114.1226" y2="68.9635">
+	<stop  offset="2.524039e-03" style="stop-color:#F6EB56"/>
+	<stop  offset="0.2163" style="stop-color:#EAAB55"/>
+	<stop  offset="0.2271" style="stop-color:#E9A854"/>
+	<stop  offset="0.7349" style="stop-color:#FDDF6B"/>
+</linearGradient>
+<path id="yellow_fill" class="st1" d="M114.1,69c0,31.2-25.3,56.6-56.6,56.6C26.3,125.5,1,100.2,1,69s25.3-56.6,56.6-56.6
+	C88.8,12.4,114.1,37.7,114.1,69z"/>
+<path id="yellow_stroke" class="st2" d="M114.1,69c0,31.2-25.3,56.6-56.6,56.6C26.3,125.5,1,100.2,1,69s25.3-56.6,56.6-56.6
+	C88.8,12.4,114.1,37.7,114.1,69z"/>
+<linearGradient id="blue_fill_1_" gradientUnits="userSpaceOnUse" x1="12.35" y1="68.5" x2="102.7055" y2="68.5">
+	<stop  offset="6.067709e-02" style="stop-color:#6086C4"/>
+	<stop  offset="0.8955" style="stop-color:#7CE0FF;stop-opacity:0.9"/>
+</linearGradient>
+<path id="blue_fill" class="st3" d="M102.7,68.5c0,24.5-20.2,44.4-45.2,44.4c-25,0-45-19.9-45.2-44.4c-0.1-24.1,20.2-44.3,45.2-44.4
+	C82.5,24,102.7,44,102.7,68.5z"/>
+<path id="blue_stroke" class="st4" d="M102.7,68.5c0,24.5-20.2,44.4-45.2,44.4c-25,0-45-19.9-45.2-44.4
+	c-0.1-24.1,20.2-44.3,45.2-44.4C82.5,24,102.7,44,102.7,68.5z"/>
+<linearGradient id="blue_shadow_1_" gradientUnits="userSpaceOnUse" x1="12.9954" y1="68.493" x2="69.9727" y2="68.493">
+	<stop  offset="0.1237" style="stop-color:#002187"/>
+	<stop  offset="0.6099" style="stop-color:#7CE0FF;stop-opacity:0.2"/>
+</linearGradient>
+<path id="blue_shadow" class="st5" d="M33.9,68.6c0-20.5,15.9-38,35.1-42.5c-3.2-0.8-8.3-1.5-11.8-1.5C33.2,24.6,13,44.5,13,68.4
+	c0,23.9,20.2,44,44.1,44c3.4,0,9.6-1,12.9-1.8C50.9,106.1,33.9,89.1,33.9,68.6z"/>
+<g id="clock_face">
+	<text transform="matrix(0.7 0 0 0.7 52.3247 38.7236)" class="st6 st7">n</text>
+	<text transform="matrix(0.7 0 0 0.7 51.1948 110.6289)" class="st6 st7">s</text>
+	<line id="clock_face1" class="st8" x1="17.8" y1="68.8" x2="27.6" y2="68.8"/>
+	<line id="clock_face2" class="st8" x1="89.7" y1="68.8" x2="99.5" y2="68.8"/>
+	<line id="clock_face3" class="st8" x1="31.7" y1="36.9" x2="37.8" y2="44.6"/>
+	<line id="clock_face4" class="st8" x1="76.4" y1="93.3" x2="82.5" y2="101"/>
+	<line id="clock_face5" class="st8" x1="25.7" y1="94" x2="33.3" y2="87.9"/>
+	<line id="clock_face6" class="st8" x1="81.7" y1="48.9" x2="89.4" y2="42.8"/>
+	<circle id="clock_face_dot_1" class="st9" cx="30.4" cy="68.8" r="0.5"/>
+	<circle id="clock_face_dot_2" class="st9" cx="87.1" cy="68.8" r="0.5"/>
+</g>
+<g id="arrow_shadow">
+	<polygon class="st10" points="63.8,71.1 59.2,68.9 54.6,66.7 51.1,79.9 47.5,93.1 55.6,82.1 	"/>
+	<polygon class="st10" points="63.9,70.9 59.3,68.7 54.7,66.5 62.9,55.5 71.1,44.5 67.5,57.7 	"/>
+	<circle class="st10" cx="58.7" cy="70" r="5.4"/>
+</g>
+<polygon id="white_arrow_fill" class="st11" points="62,70.8 57.5,68.6 52.9,66.4 49.3,79.6 45.8,92.8 53.9,81.8 "/>
+<polygon id="white_arrow_stroke" class="st12" points="62,70.8 57.5,68.6 52.9,66.4 49.3,79.6 45.8,92.8 53.9,81.8 "/>
+<polygon id="red_arrow_fill" class="st13" points="62.1,70.6 57.6,68.4 53,66.2 61.2,55.2 69.4,44.2 65.8,57.4 "/>
+<polygon id="red_arrow_stroke" class="st12" points="62.1,70.6 57.6,68.4 53,66.2 61.2,55.2 69.4,44.2 65.8,57.4 "/>
+<g id="arrow_x27_s_circle">
+	<circle class="st14" cx="57" cy="69.7" r="5.4"/>
+	<circle class="st15" cx="57" cy="69.7" r="3.4"/>
+	<circle class="st14" cx="57" cy="69.7" r="0.7"/>
+	<g>
+		<g>
+			<path class="st16" d="M54.6,66.3c0.5,0,0.5-0.8,0-0.8C54.1,65.6,54.1,66.3,54.6,66.3L54.6,66.3z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st16" d="M53.6,66.3c-0.9,0.6-1.3,2.2-1.1,3.2c0.1,0.3,0.5,0.2,0.5-0.1c-0.1-0.8,0.2-2.2,0.9-2.7
+				C54.1,66.6,53.9,66.1,53.6,66.3L53.6,66.3z"/>
+		</g>
+	</g>
+</g>
+<line id="line_top" class="st17" x1="57.8" y1="11.9" x2="57.8" y2="7.6"/>
+<ellipse id="button_top" class="st18" cx="57.8" cy="4.7" rx="7.9" ry="4.2"/>
+<g id="highlight_top1" class="st19">
+	<g>
+		<path class="st16" d="M54,2.2c-0.8,0.3-1.6,0.7-2.1,1.3c-0.5,0.6-0.7,1.4-0.1,2C52.3,6,53,5.3,52.5,4.8c-0.6-0.5,1.4-1.5,1.8-1.7
+			C54.9,3,54.6,2,54,2.2L54,2.2z"/>
+	</g>
+</g>
+<g id="highlight_top2" class="st19">
+	<g>
+		<path class="st16" d="M55.6,2.7c0.6,0,0.6-1,0-1C54.9,1.7,54.9,2.7,55.6,2.7L55.6,2.7z"/>
+	</g>
+</g>
+<circle id="highlight_left_dot" class="st20" cx="40.4" cy="35.9" r="2.9"/>
+<g id="highlight_left_line" class="st21">
+	<g>
+		<path class="st16" d="M22.3,62.1c1.3-6.3,3.7-11.9,8.6-16.2c1.5-1.3-0.7-3.4-2.1-2.1c-5.3,4.6-8,10.7-9.4,17.5
+			C19,63.2,21.9,64,22.3,62.1L22.3,62.1z"/>
+	</g>
+</g>
+<g id="highlight_right_line" class="st21">
+	<g>
+		<path class="st16" d="M85.9,94.2c4.4-5.1,7.8-10.7,10.2-17c0.7-1.8-2.2-2.6-2.9-0.8c-2.2,5.8-5.4,11-9.4,15.7
+			C82.5,93.5,84.6,95.6,85.9,94.2L85.9,94.2z"/>
+	</g>
+</g>
+<g id="highlight_right_dot">
+	<g>
+		<path class="st16" d="M76.3,104c3.2,0,3.2-5,0-5C73.1,99,73.1,104,76.3,104L76.3,104z"/>
+	</g>
+</g>
+</svg>
