@@ -70,19 +70,24 @@
      }
 
 
-bell.addEventListener("click", Bell);
-clock.addEventListener("click", Clock);
+	bell.addEventListener("click", Bell);
 
-compass.addEventListener("click", Compass);
+	clock.addEventListener("click", Clock);
 
-fastforwardbutton.addEventListener("click", Fastforwardbutton);
+	compass.addEventListener("click", Compass);
 
-mail.addEventListener("click", Mail);
-photocamera.addEventListener("click", Photocamera);
-placeholder.addEventListener("click", Placeholder);
+	fastforwardbutton.addEventListener("click", Fastforwardbutton);
 
-	playbutton.addEventListener("click", Playbutton);	
+	mail.addEventListener("click", Mail);
+
+	photocamera.addEventListener("click", Photocamera);
+
+	placeholder.addEventListener("click", Placeholder);
+
+	playbutton.addEventListener("click", Playbutton);
+		
     search.addEventListener("click", Search);
+
     settings.addEventListener("click", Settings);
      
     
